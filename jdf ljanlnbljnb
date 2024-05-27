@@ -1,0 +1,29 @@
+[33mcommit cdd675771764be1d1c103db0dfd213fefdd5b19c[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Nishad <nishad.hussain@gmail.com>
+Date:   Mon May 27 20:39:14 2024 +1000
+
+    moving to branch develop
+
+[33mcommit 321b0268f910aaffae254f52cf8b38ff72e6e512[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nishad <nishad.hussain@gmail.com>
+Date:   Mon May 27 20:32:17 2024 +1000
+
+    my file3 added
+
+[33mcommit 536edfbe4bd5d26550f7b48c81c2467088526f32[m
+Author: Nishad <nishad.hussain@gmail.com>
+Date:   Mon May 27 20:26:15 2024 +1000
+
+    made changes to File2
+
+[33mcommit 64af0ad1c8a8de57e02552ae8a6daa0fae301a7d[m
+Author: Nishad <nishad.hussain@gmail.com>
+Date:   Mon May 27 20:14:44 2024 +1000
+
+    Changed File1
+
+[33mcommit b9ea0c38643a6051e3046629510eb4d71e69a5ca[m
+Author: Nishad <nishad.hussain@gmail.com>
+Date:   Mon May 27 20:06:04 2024 +1000
+
+    My first commit
